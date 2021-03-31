@@ -1,0 +1,14 @@
+/* that how we do css */
+.heading {
+  color: red;
+}
+
+/* So we can target class, Id, and HTML elements directly */
+ul {
+  color: blue;
+}
+
+.food-img {
+  width: 100px;
+  height: 100px;
+}
